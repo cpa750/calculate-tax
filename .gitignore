@@ -1,0 +1,6 @@
+# Directories
+cmake-*/
+
+# File (types)
+*.sh
+

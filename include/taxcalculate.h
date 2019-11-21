@@ -1,0 +1,2 @@
+int calculateTax(int income);
+
